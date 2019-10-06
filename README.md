@@ -25,3 +25,4 @@ Model architecture and parameters used for training the model:
 Visualization of the comparison between the predicted and the actual values of our test dataset (300 sample from test dataset):
 
 
+![](result.JPG)
