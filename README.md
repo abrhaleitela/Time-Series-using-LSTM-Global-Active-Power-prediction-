@@ -1,5 +1,5 @@
 # Time-Series-using-LSTM-Global-Active-Power-prediction-
-Project to predict Global Active Power at the time (t) given the Global Active Power measurement and other features at the prior time step(t-1)
+Predict Global Active Power at the time (t) given the Global Active Power measurement and other features at the prior time step(t-1)
 
 
 Preprocessing steps:
