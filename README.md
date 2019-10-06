@@ -26,3 +26,6 @@ Visualization of the comparison between the predicted and the actual values of o
 
 
 ![](result.JPG)
+
+
+Give it a star if you like it.
